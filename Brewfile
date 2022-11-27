@@ -11,6 +11,7 @@ brew "node"
 brew "pnpm"
 brew "python"
 brew "wget"
+brew "zsh"
 
 cask "1password"
 cask "adobe-creative-cloud"
