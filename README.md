@@ -1,5 +1,5 @@
-# Brewfile
-A simple [Brewfile](https://github.com/Homebrew/homebrew-bundle#usage) for installing all my Mac OS 
+# brewfile
+A useful [Brewfile](https://github.com/Homebrew/homebrew-bundle#usage) for installing all my macOS 
 applications at once using [Homebrew](https://github.com/Homebrew/brew) and [mas](https://github.com/mas-cli/mas)
 
 ## Usage
