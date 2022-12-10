@@ -52,7 +52,6 @@ cask "zoom"
 
 mas "Compressor", id: 424390742
 mas "Final Cut Pro", id: 424389933
-mas "HP Smart for Desktop", id: 1474276998
 mas "Logic Pro", id: 634148309
 mas "Magnet", id: 441258766
 mas "MainStage", id: 634159523
