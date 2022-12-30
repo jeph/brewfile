@@ -10,6 +10,7 @@ brew "mas"
 brew "node"
 brew "pnpm"
 brew "python"
+brew "rustup"
 brew "wget"
 brew "zsh"
 
