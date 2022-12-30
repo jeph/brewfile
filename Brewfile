@@ -15,6 +15,7 @@ brew "zsh"
 
 cask "1password"
 cask "adobe-creative-cloud"
+cask "aldente"
 cask "authy"
 cask "bartender"
 cask "cleanmymac"
