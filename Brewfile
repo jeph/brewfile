@@ -52,6 +52,7 @@ cask "visual-studio-code"
 cask "warp"
 cask "zoom"
 
+mas "Apple Remote Desktop", id: 409907375
 mas "Compressor", id: 424390742
 mas "Final Cut Pro", id: 424389933
 mas "Logic Pro", id: 634148309
