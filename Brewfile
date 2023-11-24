@@ -15,6 +15,7 @@ brew "wget"
 brew "zsh"
 
 cask "1password"
+cask "1password-cli"
 cask "adobe-creative-cloud"
 cask "aldente"
 cask "authy"
