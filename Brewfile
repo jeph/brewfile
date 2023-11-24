@@ -2,6 +2,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 
+brew "bash"
 brew "git"
 brew "mas"
 brew "node"
