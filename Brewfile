@@ -9,6 +9,7 @@ brew "node"
 brew "pnpm"
 brew "python"
 brew "rustup"
+brew "tmux"
 brew "wget"
 brew "zsh"
 
