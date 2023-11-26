@@ -3,6 +3,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 
 brew "bash"
+brew "bat"
 brew "git"
 brew "mas"
 brew "node"
