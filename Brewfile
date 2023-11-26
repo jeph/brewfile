@@ -4,6 +4,7 @@ tap "homebrew/cask-versions"
 
 brew "bash"
 brew "bat"
+brew "exa"
 brew "git"
 brew "mas"
 brew "node"
