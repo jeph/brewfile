@@ -70,6 +70,7 @@ mas "MainStage", id: 634159523
 mas "Messenger", id: 1480068668
 mas "Motion", id: 434290957
 mas "PastePal", id: 1503446680
+mas "PDFgear", id: -2120913460
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 mas "Yoink", id: 457622435
