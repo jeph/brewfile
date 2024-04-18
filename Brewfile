@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
+tap "withgraphite/tap"
 
 brew "bash"
 brew "bat"
@@ -15,6 +16,7 @@ brew "rustup"
 brew "tlrc"
 brew "tmux"
 brew "wget"
+brew "withgraphite/tap/graphite"
 brew "zsh"
 
 cask "1password"
