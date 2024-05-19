@@ -1,10 +1,12 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
+tap "oven-sh/bun"
 tap "withgraphite/tap"
 
 brew "bash"
 brew "bat"
+brew "bun"
 brew "exa"
 brew "ffmpeg"
 brew "git"
