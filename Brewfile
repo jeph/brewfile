@@ -87,7 +87,7 @@ mas "MainStage", id: 634159523
 mas "Messenger", id: 1480068668
 mas "Motion", id: 434290957
 mas "PastePal", id: 1503446680
-mas "Screens 5: VNC Remote Desktop", id: 1663047912
+mas "Screens 5", id: 1663047912
 mas "TextSniper", id: 1528890965
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
