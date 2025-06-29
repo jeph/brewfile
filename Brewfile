@@ -80,6 +80,7 @@ cask "tailscale"
 cask "viscosity"
 cask "visual-studio-code"
 cask "warp"
+cask "zoom"
 
 mas "Compressor", id: 424390742
 mas "Final Cut Pro", id: 424389933
