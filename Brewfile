@@ -3,19 +3,28 @@ tap "homebrew/bundle"
 brew "bash"
 brew "bat"
 brew "chezmoi"
+brew "fd" # yazi optional dependency
 brew "ffmpeg"
 brew "fnm"
 brew "fzf"
 brew "gemini-cli"
 brew "git"
+brew "imagemagick" # yazi optional dependency
+brew "jq" # yazi optional dependency
 brew "lsd"
 brew "mas"
 brew "micro"
+brew "neovim"
 brew "pnpm"
+brew "poppler" # yazi optional dependency
+brew "resvg" # yazi optional dependency
+brew "ripgrep" # yazi optional dependency
 brew "rustup"
+brew "sevenzip" # yazi optional dependency
 brew "starship"
 brew "tlrc"
 brew "tmux"
+brew "yazi"
 brew "zellij"
 brew "zoxide"
 brew "zsh"
@@ -39,6 +48,7 @@ cask "docker-desktop"
 cask "firefox"
 cask "folx"
 cask "font-hack-nerd-font"
+cask "font-symbols-only-nerd-font" # yazi optional dependency
 cask "ghostty"
 cask "google-chrome"
 cask "homerow"
