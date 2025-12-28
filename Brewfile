@@ -3,24 +3,23 @@ tap "homebrew/bundle"
 brew "bash"
 brew "bat"
 brew "chezmoi"
-brew "fd" # yazi optional dependency
+brew "fd"
 brew "ffmpeg"
 brew "fnm"
 brew "fzf"
-brew "gemini-cli"
 brew "git"
-brew "imagemagick" # yazi optional dependency
-brew "jq" # yazi optional dependency
+brew "imagemagick" # yazi dependency
+brew "jq"
 brew "lsd"
 brew "mas"
 brew "micro"
 brew "neovim"
 brew "pnpm"
-brew "poppler" # yazi optional dependency
-brew "resvg" # yazi optional dependency
-brew "ripgrep" # yazi optional dependency
+brew "poppler" # yazi dependency
+brew "resvg" # yazi dependency
+brew "ripgrep"
 brew "rustup"
-brew "sevenzip" # yazi optional dependency
+brew "sevenzip" # yazi dependency
 brew "starship"
 brew "tlrc"
 brew "tmux"
