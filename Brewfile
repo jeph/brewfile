@@ -2,6 +2,7 @@ tap "homebrew/bundle"
 
 brew "bash"
 brew "bat"
+brew "bottom"
 brew "chezmoi"
 brew "fastfetch"
 brew "fd"
