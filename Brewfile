@@ -48,7 +48,7 @@ cask "docker-desktop"
 cask "firefox"
 cask "folx"
 cask "font-hack-nerd-font"
-cask "font-symbols-only-nerd-font" # yazi optional dependency
+cask "font-symbols-only-nerd-font" # yazi dependency
 cask "ghostty"
 cask "google-chrome"
 cask "homerow"
