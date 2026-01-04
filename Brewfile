@@ -16,6 +16,7 @@ brew "lsd"
 brew "mas"
 brew "micro"
 brew "neovim"
+brew "nx"
 brew "pnpm"
 brew "poppler" # yazi dependency
 brew "resvg" # yazi dependency
