@@ -1,5 +1,3 @@
-tap "homebrew/bundle"
-
 brew "bash"
 brew "bat"
 brew "bottom"
