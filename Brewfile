@@ -48,6 +48,7 @@ cask "font-symbols-only-nerd-font" # yazi dependency
 cask "ghostty"
 cask "google-chrome"
 cask "iina"
+cask "insta360-link-controller"
 cask "insta360-studio"
 cask "jetbrains-toolbox"
 cask "keka"
