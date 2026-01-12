@@ -67,7 +67,7 @@ cask "steam"
 cask "synology-drive"
 cask "tailscale-app"
 cask "viscosity"
-cask "visual-studio-code"
+cask "zed"
 
 mas "Compressor", id: 424390742
 mas "Darkroom", id: 953286746
