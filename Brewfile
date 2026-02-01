@@ -46,6 +46,7 @@ cask "firefox"
 cask "folx"
 cask "font-hack-nerd-font"
 cask "font-symbols-only-nerd-font" # yazi dependency
+cask "forklift"
 cask "ghostty"
 cask "google-chrome"
 cask "iina"
@@ -80,5 +81,6 @@ mas "Magnet", id: 441258766
 mas "MainStage", id: 634159523
 mas "Motion", id: 434290957
 mas "Screens 5", id: 1663047912
+mas "Telegram", id: 747648890
 mas "TextSniper", id: 1528890965
 mas "Yoink", id: 457622435
