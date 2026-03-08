@@ -1,6 +1,7 @@
 tap "anomalyco/tap"
 
 brew "anomalyco/tap/opencode"
+brew "agent-browser"
 brew "bash"
 brew "bat"
 brew "bottom"
