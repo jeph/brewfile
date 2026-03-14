@@ -1,4 +1,5 @@
 tap "anomalyco/tap"
+tap "sdkman/tap"
 
 brew "anomalyco/tap/opencode"
 brew "agent-browser"
@@ -26,6 +27,7 @@ brew "poppler" # yazi dependency
 brew "resvg" # yazi dependency
 brew "ripgrep"
 brew "rustup"
+brew "sdkman/tap/sdkman-cli"
 brew "sevenzip" # yazi dependency
 brew "starship"
 brew "tlrc"
