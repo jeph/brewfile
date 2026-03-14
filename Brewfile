@@ -6,6 +6,7 @@ brew "bash"
 brew "bat"
 brew "bottom"
 brew "chezmoi"
+brew "cocoapods"
 brew "fastfetch"
 brew "fd"
 brew "ffmpeg"
@@ -30,6 +31,7 @@ brew "starship"
 brew "tlrc"
 brew "tmux"
 brew "uv"
+brew "watchman"
 brew "yazi"
 brew "zellij"
 brew "zoxide"
@@ -41,6 +43,7 @@ cask "affinity-designer"
 cask "affinity-photo"
 cask "affinity-publisher"
 cask "aldente"
+cask "android-studio"
 cask "balenaetcher"
 cask "bambu-studio"
 cask "bartender"
@@ -92,4 +95,5 @@ mas "Motion", id: 434290957
 mas "Screens 5", id: 1663047912
 mas "Telegram", id: 747648890
 mas "TextSniper", id: 1528890965
+mas "Xcode", id: 497799835
 mas "Yoink", id: 457622435
