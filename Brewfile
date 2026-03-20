@@ -87,6 +87,7 @@ cask "zed"
 
 mas "Compressor", id: 424390742
 mas "Darkroom", id: 953286746
+mas "Dory - App Switcher", id: 6746273626
 mas "Final Cut Pro", id: 424389933
 mas "Home Assistant", id: 1099568401
 mas "Logic Pro", id: 634148309
