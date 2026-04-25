@@ -16,6 +16,7 @@ brew "fzf"
 brew "gh"
 brew "git"
 brew "git-delta"
+brew "homeassistant-cli"
 brew "imagemagick" # yazi dependency
 brew "jq"
 brew "lsd"
