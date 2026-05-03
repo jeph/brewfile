@@ -15,6 +15,7 @@ brew "gh"
 brew "git"
 brew "git-delta"
 brew "homeassistant-cli"
+brew "hyperb1iss/tap/unifly"
 brew "imagemagick" # yazi dependency
 brew "jq"
 brew "lsd"
