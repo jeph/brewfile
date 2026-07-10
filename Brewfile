@@ -1,11 +1,12 @@
-brew "anomalyco/tap/opencode"
+brew "anomalyco/tap/opencode", trusted: true
 brew "agent-browser"
 brew "bash"
 brew "bat"
 brew "bottom"
+brew "oven-sh/bun/bun", trusted: true
 brew "chezmoi"
 brew "cocoapods"
-brew "dopplerhq/cli/doppler"
+brew "dopplerhq/doppler/doppler", trusted: true
 brew "fastfetch"
 brew "fd"
 brew "ffmpeg"
@@ -15,7 +16,7 @@ brew "gh"
 brew "git"
 brew "git-delta"
 brew "homeassistant-cli"
-brew "hyperb1iss/tap/unifly"
+brew "hyperb1iss/tap/unifly", trusted: true
 brew "imagemagick" # yazi dependency
 brew "jq"
 brew "lsd"
@@ -27,7 +28,7 @@ brew "poppler" # yazi dependency
 brew "resvg" # yazi dependency
 brew "ripgrep"
 brew "rustup"
-brew "sdkman/tap/sdkman-cli"
+brew "sdkman/tap/sdkman-cli", trusted: true
 brew "sevenzip" # yazi dependency
 brew "starship"
 brew "tlrc"
@@ -61,6 +62,7 @@ cask "font-symbols-only-nerd-font" # yazi dependency
 cask "forklift"
 cask "ghostty"
 cask "google-chrome"
+cask "home-assistant"
 cask "iina"
 cask "insta360-link-controller"
 cask "insta360-studio"
@@ -90,7 +92,6 @@ mas "Compressor", id: 424390742
 mas "Darkroom", id: 953286746
 mas "Dory - App Switcher", id: 6746273626
 mas "Final Cut Pro", id: 424389933
-mas "Home Assistant", id: 1099568401
 mas "Logic Pro", id: 634148309
 mas "LosslessCut", id: 1505323402
 mas "Magnet", id: 441258766
