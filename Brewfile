@@ -31,6 +31,7 @@ brew "rustup"
 brew "sdkman/tap/sdkman-cli", trusted: true
 brew "sevenzip" # yazi dependency
 brew "starship"
+brew "hashicorp/tap/terraform", trusted: true
 brew "tlrc"
 brew "tmux"
 brew "uv"
@@ -60,6 +61,7 @@ cask "folx"
 cask "font-hack-nerd-font"
 cask "font-symbols-only-nerd-font" # yazi dependency
 cask "forklift"
+cask "gcloud-cli"
 cask "ghostty"
 cask "google-chrome"
 cask "home-assistant"
