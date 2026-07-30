@@ -1,9 +1,9 @@
-brew "anomalyco/tap/opencode", trusted: true
 brew "agent-browser"
+brew "anomalyco/tap/opencode", trusted: true
 brew "bash"
 brew "bat"
 brew "bottom"
-brew "oven-sh/bun/bun", trusted: true
+brew "can1357/tap/omp", trusted: true
 brew "chezmoi"
 brew "cocoapods"
 brew "dopplerhq/doppler/doppler", trusted: true
@@ -15,6 +15,7 @@ brew "fzf"
 brew "gh"
 brew "git"
 brew "git-delta"
+brew "hashicorp/tap/terraform", trusted: true
 brew "homeassistant-cli"
 brew "hyperb1iss/tap/unifly", trusted: true
 brew "imagemagick" # yazi dependency
@@ -23,6 +24,7 @@ brew "lsd"
 brew "mas"
 brew "micro"
 brew "neovim"
+brew "oven-sh/bun/bun", trusted: true
 brew "pnpm"
 brew "poppler" # yazi dependency
 brew "resvg" # yazi dependency
@@ -31,7 +33,6 @@ brew "rustup"
 brew "sdkman/tap/sdkman-cli", trusted: true
 brew "sevenzip" # yazi dependency
 brew "starship"
-brew "hashicorp/tap/terraform", trusted: true
 brew "tlrc"
 brew "tmux"
 brew "uv"
