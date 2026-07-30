@@ -16,6 +16,7 @@ brew "gh"
 brew "git"
 brew "git-delta"
 brew "hashicorp/tap/terraform", trusted: true
+brew "herdr"
 brew "homeassistant-cli"
 brew "hyperb1iss/tap/unifly", trusted: true
 brew "imagemagick" # yazi dependency
