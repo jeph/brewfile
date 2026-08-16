@@ -92,6 +92,7 @@ cask "steelseries-gg"
 cask "synology-drive"
 cask "tailscale-app"
 cask "viscosity"
+cask "vorssaint"
 cask "zed"
 
 mas "Compressor", id: 424390742
