@@ -1,4 +1,3 @@
-brew "agent-browser"
 brew "anomalyco/tap/opencode", trusted: true
 brew "bash"
 brew "bat"
@@ -6,7 +5,6 @@ brew "bottom"
 brew "can1357/tap/omp", trusted: true
 brew "chezmoi"
 brew "cocoapods"
-brew "dopplerhq/doppler/doppler", trusted: true
 brew "fastfetch"
 brew "fd"
 brew "ffmpeg"
