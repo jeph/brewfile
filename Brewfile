@@ -93,6 +93,7 @@ cask "synology-drive"
 cask "tailscale-app"
 cask "viscosity"
 cask "vorssaint"
+cask "wechat"
 cask "zed"
 
 mas "Compressor", id: 424390742
