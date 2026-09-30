@@ -25,6 +25,7 @@ brew "mas"
 brew "micro"
 brew "neovim"
 brew "oven-sh/bun/bun", trusted: true
+brew "plaid/plaid-cli/plaid", trusted: true
 brew "pnpm"
 brew "poppler" # yazi dependency
 brew "resvg" # yazi dependency
