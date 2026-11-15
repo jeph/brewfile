@@ -64,6 +64,7 @@ cask "devutils"
 cask "discord"
 cask "firefox"
 cask "folx"
+cask "font-cascadia-mono" # octant glyph fallback for herdr-app
 cask "font-hack-nerd-font"
 cask "font-symbols-only-nerd-font" # yazi dependency
 cask "forklift"
